@@ -12,7 +12,7 @@ echo "diff done for big.txt"
 diff output/sortSeqGettysburg.txt text/gettysburgSorted.txt
 echo "diff done for gettysburg.txt"
 
-diff output/sortSeqMobyDick.txt text/mobydick.txt
+diff output/sortSeqMobyDick.txt text/mobydickSorted.txt
 echo "diff done for mobydick.txt"
 
 diff output/sortSeqRaven.txt text/ravenSorted.txt
@@ -34,7 +34,7 @@ echo "diff done for big.txt"
 diff output/sortThreadGettysburg.txt text/gettysburgSorted.txt
 echo "diff done for gettysburg.txt"
 
-diff output/sortThreadMobyDick.txt text/mobydick.txt
+diff output/sortThreadMobyDick.txt text/mobydickSorted.txt
 echo "diff done for mobydick.txt"
 
 diff output/sortThreadRaven.txt text/ravenSorted.txt
